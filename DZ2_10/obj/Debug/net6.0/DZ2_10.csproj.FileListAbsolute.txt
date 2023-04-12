@@ -1,0 +1,15 @@
+E:\SEMINAR_3.1\DZ2_10\bin\Debug\net6.0\DZ2_10.exe
+E:\SEMINAR_3.1\DZ2_10\bin\Debug\net6.0\DZ2_10.deps.json
+E:\SEMINAR_3.1\DZ2_10\bin\Debug\net6.0\DZ2_10.runtimeconfig.json
+E:\SEMINAR_3.1\DZ2_10\bin\Debug\net6.0\DZ2_10.dll
+E:\SEMINAR_3.1\DZ2_10\bin\Debug\net6.0\DZ2_10.pdb
+E:\SEMINAR_3.1\DZ2_10\obj\Debug\net6.0\DZ2_10.csproj.AssemblyReference.cache
+E:\SEMINAR_3.1\DZ2_10\obj\Debug\net6.0\DZ2_10.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEMINAR_3.1\DZ2_10\obj\Debug\net6.0\DZ2_10.AssemblyInfoInputs.cache
+E:\SEMINAR_3.1\DZ2_10\obj\Debug\net6.0\DZ2_10.AssemblyInfo.cs
+E:\SEMINAR_3.1\DZ2_10\obj\Debug\net6.0\DZ2_10.csproj.CoreCompileInputs.cache
+E:\SEMINAR_3.1\DZ2_10\obj\Debug\net6.0\DZ2_10.dll
+E:\SEMINAR_3.1\DZ2_10\obj\Debug\net6.0\refint\DZ2_10.dll
+E:\SEMINAR_3.1\DZ2_10\obj\Debug\net6.0\DZ2_10.pdb
+E:\SEMINAR_3.1\DZ2_10\obj\Debug\net6.0\DZ2_10.genruntimeconfig.cache
+E:\SEMINAR_3.1\DZ2_10\obj\Debug\net6.0\ref\DZ2_10.dll
