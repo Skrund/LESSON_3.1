@@ -1,0 +1,15 @@
+E:\SEMINAR_3.1\DZ15\bin\Debug\net6.0\DZ15.exe
+E:\SEMINAR_3.1\DZ15\bin\Debug\net6.0\DZ15.deps.json
+E:\SEMINAR_3.1\DZ15\bin\Debug\net6.0\DZ15.runtimeconfig.json
+E:\SEMINAR_3.1\DZ15\bin\Debug\net6.0\DZ15.dll
+E:\SEMINAR_3.1\DZ15\bin\Debug\net6.0\DZ15.pdb
+E:\SEMINAR_3.1\DZ15\obj\Debug\net6.0\DZ15.csproj.AssemblyReference.cache
+E:\SEMINAR_3.1\DZ15\obj\Debug\net6.0\DZ15.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEMINAR_3.1\DZ15\obj\Debug\net6.0\DZ15.AssemblyInfoInputs.cache
+E:\SEMINAR_3.1\DZ15\obj\Debug\net6.0\DZ15.AssemblyInfo.cs
+E:\SEMINAR_3.1\DZ15\obj\Debug\net6.0\DZ15.csproj.CoreCompileInputs.cache
+E:\SEMINAR_3.1\DZ15\obj\Debug\net6.0\DZ15.dll
+E:\SEMINAR_3.1\DZ15\obj\Debug\net6.0\refint\DZ15.dll
+E:\SEMINAR_3.1\DZ15\obj\Debug\net6.0\DZ15.pdb
+E:\SEMINAR_3.1\DZ15\obj\Debug\net6.0\DZ15.genruntimeconfig.cache
+E:\SEMINAR_3.1\DZ15\obj\Debug\net6.0\ref\DZ15.dll
